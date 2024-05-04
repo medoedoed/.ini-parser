@@ -1,0 +1,1 @@
+add_library(ITMLparse parser.cpp argument/argument.cpp argument/argument.h)
